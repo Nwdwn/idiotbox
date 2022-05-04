@@ -1,5 +1,5 @@
 # idiotbox
 
-# packages
+packages
 
 
